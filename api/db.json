@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "genshin",
+      "description": "live stream",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "Here is another live stream",
+      "id": 2
+    },
+    {
+      "title": "Red Dead Redemption Livestream..now on tuesdays",
+      "description": "RDR2 new patch play through",
+      "userId": "105947356537712071563",
+      "id": 4
+    },
+    {
+      "title": "unstable history router..edited",
+      "description": "there has been changes in v6",
+      "id": 6
+    },
+    {
+      "title": "Edited",
+      "description": "This si also edited part 2",
+      "id": 7
+    }
+  ]
+}
